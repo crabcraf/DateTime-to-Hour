@@ -1,3 +1,3 @@
 # DateTime-to-Hour
 
-conver DateTime to hour
+convert DateTime to hour
